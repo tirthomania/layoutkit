@@ -72,7 +72,7 @@ Do them in order: M5 uses M1, and M6 uses M3 and M5.
 Stuck for more than 45 minutes on one function? Ask Gemini for a *hint*, not the code. Paste
 the failing test output — it shows the exact values you got vs expected.
 
-## Stretch goals (good interview talking points)
+## Stretch goals 
 
 - Replace the test framework with GoogleTest (`FetchContent` in CMake).
 - M5: add `remove(id)`; then compare against `boost::geometry::index::rtree`.
